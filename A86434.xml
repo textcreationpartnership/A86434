@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sions halelujah: set forth in a sermon preached before the Right Honourable House of Peers, in the abbie church of Westminster, on Thursday June 28. Being the day of publick thanksgiving to almighty God for his Majesties safe return. By Tho. Hodges, Rector Ecclesiæ de Kensington.</title>
+            <author>Hodges, Thomas, 1599 or 1600-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86434</idno>
+            <idno type="STC">Wing H2317</idno>
+            <idno type="STC">Thomason E1034_11</idno>
+            <idno type="STC">ESTC R209038</idno>
+            <idno type="EEBO-CITATION">99867946</idno>
+            <idno type="PROQUEST">99867946</idno>
+            <idno type="VID">168922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168922)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1034[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sions halelujah: set forth in a sermon preached before the Right Honourable House of Peers, in the abbie church of Westminster, on Thursday June 28. Being the day of publick thanksgiving to almighty God for his Majesties safe return. By Tho. Hodges, Rector Ecclesiæ de Kensington.</title>
+                  <author>Hodges, Thomas, 1599 or 1600-1672.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Best, for Andrew Crook, at the Green-Dragon in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an order to print on the verso of the title page, signed: John Brown Cler. Paliamentorum.</note>
+                  <note>Running title: Sions Haleujah.</note>
+                  <note>Annotation on Thomason copy: "July 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168922:1" rendition="simple:additions"/>
+            <p>Sions Halelujah: Set forth in a SERMON PREACHED Before the <hi>Right</hi> Honourable Houſe of Peers, in the Abbie Church of <hi>Weſtminſter,</hi> on Thurſday <hi>June</hi> 28. Being the day of Pub<g ref="char:EOLhyphen"/>lick Thankſgiving to Almighty God for his Majeſties ſafe Return.</p>
+            <p>By Tho. Hodges, <hi>Rector Eccleſiae de Kenſington.</hi>
+            </p>
+            <q>
+               <p>Dulcem matris affectionem miſerorum caſibus tribuit Deus; nec dies, nec quies ulla ac ne momentum quidem tenue ejus tranſcurrit beneficiis otioſum.</p>
+               <bibl>
+                  <hi>Apul. Met. lib. 11.</hi>
+               </bibl>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal.</hi> 69.7.</bibl>
+               <p>Give unto the Lord, O ye kindreds of the earth, give unto the Lord glory and ſtrength.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Beſt,</hi> for <hi>Andrew Crook,</hi> at the Green-Dragon in St. <hi>Pauls</hi> Church-yard. 1660.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:168922:2"/>
+            <head>Die Veneris <hi>29</hi> Junii. <hi>1660.</hi>
+            </head>
+            <p>IT is this day Ordered by the Lords in Parliament aſſembled, That Mr. <hi>Hodges</hi> who preached before the Lords in Parliament on Thurſday <hi>28.</hi> of this instant in the Abby Church <hi>Weſtminſter</hi> is here<g ref="char:EOLhyphen"/>by thanked for his Sermon preached then before their Lordſhips. And it is the Lords deſire that he print and publiſh his ſaid Sermon.</p>
+            <closer>
+               <signed>
+                  <hi>JOHN BROWN</hi> Cler. Paliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="author_to_Parliament">
+            <pb n="1" facs="tcp:168922:2"/>
+            <head>TO THE Right Honourable the Peers aſſem<g ref="char:EOLhyphen"/>bled in Parliament.</head>
+            <opener>
+               <salute>My Lords.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our command put me on the task of Preaching, and now Printing this Ser<g ref="char:EOLhyphen"/>mon; which preſents it ſelf to your view and protection; it was a day of <hi>mercies</hi> occaſioned it, &amp; had the Prea<g ref="char:EOLhyphen"/>chers ability been anſwerable either to the vaſtneſs of the good by God exhibited, or the great<g ref="char:EOLhyphen"/>neſs of deſire to expreſs his reſentment thereof, it might have proved an excellent monument to poſterity of the wonders God wrought for our King and Nation.<note place="margin">
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>u<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>l i<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sy<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Caeſ. Claſ.</note> 
+               <hi>Heraclius</hi> the <hi>Greek</hi> Emperour being delivered from <hi>Choſroes</hi> the Perſian, as a memoriall thereof, ſtampt his coyn with Glory be to God in the higheſt &amp;c. May the like impreſſion for ever remain on your hearts; that it may be your greateſt aim to glorifie him who hath exalted you. With ſad hearts you have ſeen the Emblem verified, ſwarms of gnats deſtroying the royal Lyon, whoſe orders and actings like <hi>Tiberius</hi> and <hi>Caligula's</hi> laws might rather be ſtiled outragious madneſſes,<note place="margin">Tacit. Hiſt.</note> then ſober and iuſt decrees and actions. But now bleſſed be God the Scene is changed, and a more pleaſant fight preſents it ſelf to you view; ſomewhat like that in the Revelation of St. <hi>John, Chap. 11. 11.</hi> The two great ordinances of God reſtored, of Magiſtracy and Miniſtry
+<pb facs="tcp:168922:3"/> to an undeſerving Nation. And that too ſo ſuddenly, ſweetly, unanimouſly, in point of National conſent, as thoſe who had the largeſt hope could rationally ſcarce have dreamt of. May the greatneſs of this mercy work a greater miracle then all the pretenſions of twenty years; even an happy moderation, and regular refor<g ref="char:EOLhyphen"/>mation both in Church and State, that miſguided ſpirits may nevermore gain oportunity to ſhape coates for the Mooon, according to their ſeveral intereſts in point of Religion, nor act the part of Empiricks on the civil Go<g ref="char:EOLhyphen"/>vernment.<note place="margin">Ioſeph, de bello judaico l. <hi>6.</hi> c. <hi>1.</hi>
+               </note> 
+               <hi>Jeruſalem</hi> might have ſtood much longer then it did, had not the treble faction forgot the golden rule of charity and moderation, by inteſtine conflicts and diſſentions gratifying there enimies deſign (though not intentionally) rather then conſulting their own ſafe<g ref="char:EOLhyphen"/>ty and welfare.</p>
+            <p>Haughty and petulant ſpirits never bleſs their owners with permanent peace, nor their country with tranquillity. That God who hath bleſt both King and people with ſuch great mer<g ref="char:EOLhyphen"/>cyes, grant unto both ſo deep a ſence thereof, as may produce a vigorous retribution of prayſe for all his goodneſs. And give un<g ref="char:EOLhyphen"/>to your Lordſhips ſuch wiſdom, moderation, and zeal for his glory, that you may be happy inſtruments in advancing the ſame, and ſetling upon firme foundations this Church and State. Al<g ref="char:EOLhyphen"/>ways remembring that poſitive,<note place="margin">1 Sam. 2.30.</note> peremptory, and in alterable concluſion, Thoſe that honour me, I will honour; but thoſe that deſpiſe me ſhall be lightly eſteemed. And may your actings be alwayes at ſuch a rate, that when the Lord of Lords ſhall ap<g ref="char:EOLhyphen"/>pear and require an account of your Stewardſhip, you may give it with joy, and not with heavineſs, which is the hearty prayer of</p>
+            <closer>
+               <salute>My Lords,</salute>
+               <signed>Your moſt humble and faithful Servant. <hi>THOMAS HODGES.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168922:3"/>
+            <head>Sions Halelujah, SET FORTH In a Sermon Preached before the Right Honourable Houſe of Peers in the <hi>Abby</hi>-Church of <hi>Weſtminſter,</hi> on <hi>Thurſday, June</hi> 28. being the day of Publique Thankſgiving unto Almighty God, for his Majeſties ſafe return.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 126.3.</hi>
+                  </bibl>
+                  <p>
+                     <hi>The Lord hath done great things for us, whereof we rejoyce.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His book of <hi>Pſalms</hi> is a little Bible,<note place="margin">Pſalmorum liber quaecun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſunt utilia ex omni<g ref="char:EOLhyphen"/>bus continet, &amp;c. <hi>Aug. Prol. in Pſal.</hi>
+               </note> repleniſhed with all ſorts of Hea<g ref="char:EOLhyphen"/>venly matter. A great part where<g ref="char:EOLhyphen"/>of is <hi>Euchariſtical,</hi> tuned to hea<g ref="char:EOLhyphen"/>vens melodious Harmony. A<g ref="char:EOLhyphen"/>mongſt all the Subjects treated of therein, none outnumbers the Subject of this <hi>Pſalm:</hi> Which what that is, the firſt
+<pb n="2" facs="tcp:168922:4"/> words tell you; tis <hi>the reducing of a captivity, and a ſad one too.</hi> In which they were as <hi>dead dry bones,</hi> in their own eſteem, and out of which they had no hope, nor help to eſcape. But when God brought it to paſs, above, yea againſt all humane expectation, they were <hi>tanquam Somniantes,</hi> as men <hi>neither perfectly aſleep nor awake, verſ.</hi> 1. and could not believe what they heard, felt, or ſaw at the firſt. But being at the laſt put out of all doubt, they became <hi>Ridentes &amp; exultantes, laughing and tri<g ref="char:EOLhyphen"/>umphing,</hi> verſ. 2. And the Heathens <hi>Admirantes &amp; Agnocſcentes,</hi> admiring and acknowledging this mi<g ref="char:EOLhyphen"/>raculous diſpenſation; Of which this Text is the pro<g ref="char:EOLhyphen"/>duct and effect.</p>
+            <p>And its no other then the Churches Eccho and <hi>Ha<g ref="char:EOLhyphen"/>lelujah</hi> to the Heathens confeſſion. Indeed, ſtrange had it been if ſpectators onely ſhould have ſaid ſo much, and the Jews who were ſo deeply con<g ref="char:EOLhyphen"/>cernd in the advantage of this deliverance ſhould have been ſilent; but that they are not: He that con<g ref="char:EOLhyphen"/>ferred this bleſſing, gave both ſence and gratitude; they are both expreſt in this Text, <hi>The Lord hath done great things for us, whereof we rejoyce.</hi> Which being thus read according to our tranſlation, we may obſerve in theſe words,
+<list>
+                  <item>1. An <hi>Acknowledgment of Gods bounty.</hi>
+                  </item>
+                  <item>2. An <hi>Impreſſion, and retribution ſuitable thereunto.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. In the <hi>acknowledgment,</hi> we have</p>
+            <p n="1">1. A pointing out the mercy, under that expreſ<g ref="char:EOLhyphen"/>ſion, <hi>Magna, great things.</hi>
+            </p>
+            <p n="2">2. A confeſſion of the Author, <hi>Jehovah, the Lord.</hi>
+            </p>
+            <p n="3">
+               <pb n="3" facs="tcp:168922:4"/>3. An aſſertion of the actual poſſeſſion; tis not <hi>faciet, he will do great things,</hi> but <hi>fecit, he hath done them,</hi> they be not ſuſpended mercies, but conferred.</p>
+            <p n="4">4. A Declaration of the object, in which there is a comfortable appropriation by the Jews, to them<g ref="char:EOLhyphen"/>ſelves; and indeed, what were it to them, had it not been for them? Therefore they put in their claim and own it; tis for us ſay they, <hi>the Lord hath done great things for us.</hi> And theſe be the particu<g ref="char:EOLhyphen"/>lars of the firſt part, their acknowledgment of Gods bounty.</p>
+            <p n="2">2. In the <hi>impreſſion</hi> and <hi>retribution,</hi> you have</p>
+            <p n="1">1. The paſſion excited, joy.</p>
+            <p n="2">2. The Subject, which is extenſive; the mercy was national, and ſo was the joy. <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> in the pre<g ref="char:EOLhyphen"/>eedent part, was the object: And <hi>We,</hi> is in the Im<g ref="char:EOLhyphen"/>preſſion, the Subject of this joy.</p>
+            <p n="3">3. The time; tis ſutable too, and concomitant with the mercy; not vaniſhing, but continuing; <hi>fuimus laetantes, we have rejoyced,</hi> when this <hi>fecit Magna</hi> was extended to us, and are ſtill rejoycing in the memory thereof. And thus you ſee the ſeveral parts of this Text. I'le begin with the firſt.</p>
+            <p n="1">1. The Mercies, expreſt by that term, <hi>Magna, great things,</hi> whereby the <hi>Pſalmiſt</hi> intends, not to diminiſh the dignity of any other work of God, as if it were ſimply little, but comparatively it may be ſo called; As lights in the heaven, exceed one another in magnitude and ſplendour, yet is the leaſt in it ſelf both great and glorious. <hi>There is a day of ſmall things,</hi> ſays the Prophet <hi>Zacharie,</hi>
+               <note place="margin">Zach. 4.10.</note>
+               <pb n="4" facs="tcp:168922:5"/> And <hi>there is a day of great things,</hi> ſayes the Prophet <hi>Jeremiah;</hi>
+               <note place="margin">Ier. 30.7, 8.</note> ſuch are theſe in this Text. The firſt are as certain beginnings, and the latter as comple<g ref="char:EOLhyphen"/>tions of ſome great buſineſs. In the leſſer there is a luſter, as at the Sun riſing: But in the greater a brightneſs as at Noon day; ſo here, <hi>When God built up Sion,</hi>
+               <note place="margin">Pſal. 102.</note> 
+               <hi>he appeared in his glory.</hi> But we may not count this a ſmall mercy; tis not ſome great thing, but things: <hi>Behold a Troop.</hi> A bleſſed conſtel<g ref="char:EOLhyphen"/>lation of mercies, whoſe happineſs, <hi>he multiplyed to do great things;</hi> So the <hi>Chaldee, Syriack</hi> and <hi>Ara<g ref="char:EOLhyphen"/>bick</hi> verſions render it; And the hiſtory of this deliverance makes it good.</p>
+            <p>The power that detaind them is broken, by the <hi>Medes</hi> and <hi>Perſians.</hi> They though <hi>Pagans,</hi> and ſo no friends to their Religion, become their delive<g ref="char:EOLhyphen"/>rers. Impregnable <hi>Babylon</hi> their ſtrong Priſon is opened to ſet them free.<note place="margin">Iſa. 45.23. 2 Chron. 36.22, 23.</note> They are freely diſcharged by Proclamation, and encouraged, yea enabled to return to their own ſoil, Government, and exer<g ref="char:EOLhyphen"/>ciſe of Religious worſhip. And all this, when things were at the worſt with them, no power in their hands to help, no hope in their hearts ratio<g ref="char:EOLhyphen"/>nally to expect it; how then could they ſay leſs if they would ſay any thing, but acknowledge that theſe were <hi>Magna, great things,</hi> as here they do!</p>
+            <p>And ſuch indeed they are; whether meaſu<g ref="char:EOLhyphen"/>red</p>
+            <p n="1">1. By utility and profit that thereby redounded to them. <hi>Things,</hi> certainly they were of great moment to theſe Jews; and of the greateſt rela<g ref="char:EOLhyphen"/>tive goodneſs, in reference to their advantage;
+<pb n="5" facs="tcp:168922:5"/> what could be more welcome to them, <hi>then liber<g ref="char:EOLhyphen"/>ty to the captive;</hi> Return to the debarred from their native ſoil; Reſtoration of the Plundered to their own poſſeſſions; dignity to the debaſed? Twas talkt of far and neer, and every mouth was full of, <hi>Who is like to Jeruſalem! happy art thou O people, ſaved by the Lords own hand.</hi>
+            </p>
+            <p n="2">2. Great things they were in reſpect of their <hi>power,</hi> or <hi>poſſibility.</hi> To them they were impoſſi<g ref="char:EOLhyphen"/>ble, in reſpect of their own ability to effect them. Their wiſdome was too ſhallow: Their ſtrength too weak, their Priſon too ſtrong, their Enimies too ſevere, potent, and watchful,<note place="margin">Lam. 1.2.</note> their condition too low; <hi>Sion had no ſon to comfort her, her breach was great like the Sea, ſo that none could heal her.</hi>
+            </p>
+            <p n="3">3. Needs muſt theſe things be of more then an ordinary ſize, becauſe the greatneſs of Gods ſtrength was put forth to effect them. <hi>He hath mag<g ref="char:EOLhyphen"/>nified to work,</hi> ſayes the Original, he greatned himſelf to effect them, cald up great power, and clothed himſelf therewith, to bring them to paſs.<note place="margin">Pſal 93.1.</note> Now did <hi>the arme of the Lord put on ſtrength,</hi>
+               <note place="margin">Iſa. 51, 9, 10.</note> 
+               <hi>and awaken, as of old, when he brought them out of Aegypt, and dryed up the Sea before them.</hi> He wrought magnificently like an Almighty God.<note place="margin">Magnifice egit; So Vatablus <hi>renders</hi> Magna fecit. Magnifi<g ref="char:EOLhyphen"/>ficentia eſt mag<g ref="char:EOLhyphen"/>narum rerum et excelſarum, cum animi amp<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a quadam etſplen<g ref="char:EOLhyphen"/>dida propoſitione cogitatio, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> adminiſtratio, Cic. in Rhet. Est virtus factiva magnorum. Aq. <hi>2<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi> q. <hi>134.</hi> art.</note> As in the Thracian Hieroglyphick of Gods power, ſet forth by the Sun ſending forth three beams; whereof the firſt broke a rock in pieces; the ſecond diſ<g ref="char:EOLhyphen"/>ſolved a mighty Mountain of Ice; the third raiſd a dead man; ſo was it here, he brake in pieces the
+<pb n="6" facs="tcp:168922:6"/> rocky-hearted <hi>Caldeans,</hi> melted into charity to<g ref="char:EOLhyphen"/>wards his people the frozen-ſpirited <hi>Medes,</hi> and <hi>Perſians,</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 37.</note> raiſed this dead and buried Nation, the Jews out of their <hi>Caldean</hi> Sepulchres,<note place="margin">Ezek, 37.11.</note> and in all this diſcovered his extraordinary power and might.</p>
+            <p n="4">4. We ſtile that great, which is extraordinary and ſtrange, not falling out every day, eſpecially if ſuch things come to paſs, unexpectedly if they be <hi>things that we look not for;</hi>
+               <note place="margin">Iſa. 64.3.</note> and ſuch were theſe, ſuch a deliverance as <hi>Ezra</hi> ſtiles it:<note place="margin">Ezra 9.15.</note> after ſea<g ref="char:EOLhyphen"/>venty years, ſuddenly diſmiſt, ſolely and no other captives, though Pagans. <hi>Who hath heard who hah ſeen ſuch things?</hi>
+               <note place="margin">Iſa. 66.8.</note> ſaith the Prophet <hi>Iſaiah;</hi> they filld the very ſpectators with admiration: and whereas the Heathens were dim-ſighted, and apt enough to detract from, and abate in <hi>Sions</hi> mercies and deliverances, they are here ſo extraordinary, of ſo great a grandure, and have on them ſuch eminent Characters of their Authors Omnipotency, being bleſſings of the firſt magnitude, that the heathens cannot chuſe but acknowledge them. <hi>Then ſaid they amongst the Heathens, The Lord hath done great things for them.</hi> And the Jews with thankfulneſs admire it; <hi>The Lord hath done great things for us, whereof we re<g ref="char:EOLhyphen"/>joyce.</hi> Which brings us to the Second particular</p>
+            <p>
+               <hi>Viz.</hi> 2. The ſeaſon in which they were made parta<g ref="char:EOLhyphen"/>kers of theſe great things; <hi>fecit, he hath done them,</hi> and they have theſe mercies in their own poſ<g ref="char:EOLhyphen"/>ſeſſion; tis not <hi>faciet, he will do this for them;</hi> that is true too, ſo oft as his peoples need requires it; <hi>I
+<pb n="7" facs="tcp:168922:6"/> will,</hi> ſaith God, <hi>bring again from Baſhan,</hi>
+               <note place="margin">Pſal. 68.22.</note> 
+               <hi>from the depth of the Sea;</hi> but here tis <hi>fecit,</hi> the work is finiſhed. To have had them decreed in heaven, might they but know <hi>Quam diu expectanda,</hi> How long before they might look for them, would have been a mercy; Wherein God gratified them, aſſigning the period of their bondage to be ſeventy years, by his holy Prophet;<note place="margin">
+                  <hi>Ier.</hi> 25.11, 12.</note> but in that thraldom many of them dyed beleiving, as yet not having received the impletion of that promiſe; at the laſt providence concurs to the accompliſhment of that prediction,<note place="margin">Ezra 1.2, 3, 4</note> and the ruler of the Nations ſets them free. The Country-man when he ſees the clouds, thoſe bottles of heaven thicken by aſcend<g ref="char:EOLhyphen"/>ing vapours, is glad; but when they let fall their drops in ſhowers, impregnated with natures crim<g ref="char:EOLhyphen"/>ſon ſalt, the fields laugh, and the husbandman grearly rejoyces; ſo was it with this people; <hi>Then was our mouths filled with laughter, and our tongues with ſinging.</hi> Well, but who may they thank for this? <hi>the Lord hath done it,</hi> ſay they.</p>
+            <p n="3">3. They acknowledg the Author is God. He,<note place="margin">Diod. Sic. lib. <hi>1</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ariſt. Ethic. l<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. <hi>5.</hi> cap. <hi>4.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c.</note> who as the cheif <hi>Egyptian</hi> Prieſt in their Divine Worſhip, uſed to ſtile their King by way of commendation, that truly is he, a boun<g ref="char:EOLhyphen"/>tiful imparter of his good things. And as the Phi<g ref="char:EOLhyphen"/>loſopher ſpeaks of the habit of virtue, that <hi>by ac<g ref="char:EOLhyphen"/>tions it may be known and judged,</hi> ſo is his truth, wiſdome, goodneſs and power, who is the Author of his deliverance; by ſuch products as this, him they ſee and own in theſe great things; not any of the heathens Gods, but <hi>Jehovah</hi> the God of <hi>Iſra<g ref="char:EOLhyphen"/>el</hi>
+               <pb n="8" facs="tcp:168922:7"/> they acknowledge to be the Author of them, who is the firſt and fountain of all beings. And in<g ref="char:EOLhyphen"/>deed,<note place="margin">Omne bonum nihil eſt niſi Dei exun datio, qua inferiora etiam replevit: <hi>Bern.</hi>
+               </note> what ever we admire in ſublunary things, what elſe is it but the overflowing of his wiſdome, goodneſs, and power, whereby he hath repleniſht even things beneath? He may fitly be reſembled to the Egyptians <hi>Iſis,</hi> all breaſt, whereby he ſuckles, and ſatiſfies with good terreſtial creatures,<note place="margin">Macr<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</note> impart<g ref="char:EOLhyphen"/>ing to them, <hi>being, Life, deliverances,</hi> and all that is good, who being <hi>love,</hi> and ſo of a <hi>communica<g ref="char:EOLhyphen"/>tive nature,</hi> invites poor creatures to himſelf (as <hi>Veſpatian</hi> did the <hi>Egyptians</hi>) from his infinite ful<g ref="char:EOLhyphen"/>neſs to draw forth to themſelves what ever may really turne to their advantage.<note place="margin">
+                  <hi>Haurite à me tanquam ex Nilo.</hi> Philoſt. l. 5. c. <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. in vit. Ap<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll.</note>
+            </p>
+            <p>He is a <hi>God of truth,</hi> who gives being to all his promiſes, and makes good his predictions by his ſervants the Prophets.<note place="margin">Iſa. 44.26.</note> So here, after the accom<g ref="char:EOLhyphen"/>pliſhment of ſeventy years,<note place="margin">and 43.6.</note> he ſayes to the North <hi>give up my ſons and my daughters,</hi> and the work is done. His will is the tyring houſe, wherein his Emanations and actings receive their dreſs,<note place="margin">Pſal 115.3.</note> 
+               <hi>he hath done whatſoever pleaſed him,</hi> ſaith the <hi>Pſalmiſt.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Syneſ. Hym.</hi> 2. Hebr. 1.</note>All ſecond cauſes depend on him whom <hi>Sineſias</hi> rightly ſtiles <hi>the root of the World,</hi> and the <hi>Center of beings,</hi> who bears up all things <hi>Manutenentia Di<g ref="char:EOLhyphen"/>vina,</hi> by the Almighty word of his power; and directs by his unerring wiſdom to their intended ends.</p>
+            <p>
+               <note place="margin">Mercanab R. Mayn. More Nevoch. lib. <hi>3.</hi> cap. <hi>7.</hi>
+               </note>The whole creation is his Chariot, in which he rides abroad, and manifeſts himſelf in the world; making ſuch uſe of every part thereof, as ſeems good to his wiſdom;<note place="margin">N<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us Dei eſt opus perfectum.</note> &amp; over all he hath ſo abſolute a command, that leſs then <hi>Pompyes</hi> ſtamp with his foot, his beck,
+<pb n="9" facs="tcp:168922:7"/> ſuffices to raiſe an army of deliverers, for his in<g ref="char:EOLhyphen"/>thralled people. Yet needs he none of theſe to do his work by; and that he is pleaſed to make uſe of any, tis a dignation in him to honour the creature, not of indigence as if he could not effect what he pleaſed without it. As here, in redu<g ref="char:EOLhyphen"/>cing this captivity, he makes uſe of <hi>Cyrus,</hi>
+               <note place="margin">Opus dignoti<g ref="char:EOLhyphen"/>onis, non indi<g ref="char:EOLhyphen"/>gentiae. <hi>Aq.</hi>
+               </note> but could have accompliſht it without him; and now he is his inſtrument, what is he without this agent?<note place="margin">Iſa. 45.</note> 
+               <hi>Twas the Lord</hi> (as the Prophet expreſſes it) <hi>that looſened the loynes of Kings, and opened the doors be<g ref="char:EOLhyphen"/>fore him; He went before him, and made crooked places ſtraight, he broke op<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the brazen dores, and burſt aſunder the iron barrs.</hi>
+               <note place="margin">Ezra 1.2.</note> This <hi>Cyrus</hi> himſelf ac<g ref="char:EOLhyphen"/>knowledgeth; <hi>The Lord God of heaven hath given me all the Kingdomes of the earth.</hi> Twas he that ſtirred him up to attempt it, and gave him pow<g ref="char:EOLhyphen"/>er, wiſdom and courage to atcheive it, enabling him to conquer <hi>Babylon</hi> it ſelf,<note place="margin">
+                  <hi>Ier. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0 21.</hi> D<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od. Sic. rer. antiq lib. <hi>3.</hi> c. <hi>4.</hi>
+               </note> that hammer that broke in peices the Nations: Although it was im<g ref="char:EOLhyphen"/>mured with mighty Walls, fortified with ſtrong Towers, and rampires, ſtrengthned with maſſy gates, repleniſhed with multitudes of Soldiers; fur<g ref="char:EOLhyphen"/>niſhed abundantly with all neceſſaryes, fenced with the impaſſible river <hi>Euphrates:</hi> by all which both King and people were ſo ſecure, and regard<g ref="char:EOLhyphen"/>leſs, that <hi>Belſhazzer</hi> and his Courtiers feaſt,<note place="margin">Invedunt u<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>be<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſomno vi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſepultam.</note> and carouſe it in the Temples ſacred veſſels, while <hi>Cyrus</hi> dividing the River into ſeveral Channels, he and his army enter the City being buried in ſleep and drunkenneſs, and ſo by force carry it.</p>
+            <p>But what is all this to <hi>Sions</hi> deliverance? perhaps
+<pb n="10" facs="tcp:168922:8"/> they have but changed one Enemy for another, and peradventure a worſe; no, no ſuch matter; come therefore and behold the doings of the Lord;<note place="margin">Zach. 4.6.</note> he conquers their conquerour by his ſpirit, making him captivate their conquerours, and releaſe the con<g ref="char:EOLhyphen"/>quered,<note place="margin">Iſa. 14.28. 2 Chron. 36.23 Ezra 1.</note> and that too in relation to a prediction of him, and precept impoſed by God upon him a<g ref="char:EOLhyphen"/>bove an hundred years before he was born. Thus the Lord was favourable to his Land;<note place="margin">Pſal. 85.5.</note> and whence came the ſore, thence came the ſalve. <hi>Salva<g ref="char:EOLhyphen"/>tion belongs to the Lord,</hi>
+               <note place="margin">Pſal. 3.</note> 
+               <hi>and his bleſſing is upon his people,</hi> which is the fourth particular.</p>
+            <p n="4">4. The object of theſ<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great things, for whom they were wrought; Tis <hi>Nobiſcum, with us,</hi> ſays the Original; not that we ſhould imagine they had any hand in it, or contributed the leaſt help there<g ref="char:EOLhyphen"/>unto;<note place="margin">Pſal, 115.1.</note> No; <hi>not to us, but to thy name,</hi> ſay they, <hi>we give the glory.</hi> Nor was it by chance, but <hi>propter nos,</hi> it was for us, ſayes the <hi>Pſalmiſt,</hi> both in Gods intention and exhibition. It might have been againſt, and not for them; they well deſerved it by theit tranſgreſſions,<note place="margin">Neh. 8.34, 35, 36.</note> not onely before, but alſo in the time of their Captivity. But it was with and for them; all went well with them, and was as they would have it. Proportion was a foil, and propriety makes the mercy compleat; he <hi>hath holp<g ref="char:EOLhyphen"/>pen his ſervant Iſrael.</hi>
+               <note place="margin">Luk. 1.54.</note>
+            </p>
+            <p>Had theſe bin the mercies of others, good nature would have made them ſenſible on their behalf; but being their own, how can they chuſe but deeply reſent them, with hearts full of joy, and mouths full of praiſe, as the <hi>Plalmiſt</hi> predicted, <hi>When
+<pb n="11" facs="tcp:168922:8"/> the Lord bringeth back the Captivity of his people, Jacob ſhall rejoyce and Iſrael ſhall be glad.</hi> So here do they fulfil it, <hi>Whereof we rejoyce,</hi> and that is the ſecond part.</p>
+            <p n="2">2. The impreſſion theſe great things received make upon them; or, the paſſion excited hereby, expreſt in the Term <hi>Laetantes, rejoycing.</hi> Tis a branch of delight, wherein the heart is dilated, as by ſorrow it is coarctated; a Metaphorical expreſſi<g ref="char:EOLhyphen"/>on taken from the bodyes poſiture, when it is not pent up in a narrow room, but is at eaſe and plea<g ref="char:EOLhyphen"/>ſure; ſo is the mind, when it enjoyes ſuch good things, wherewith it is pleaſed and delight<g ref="char:EOLhyphen"/>ed;<note place="margin">Martin. Lexic.</note> he rejoyces that enjoyes what ever he de<g ref="char:EOLhyphen"/>ſires; <hi>Etymologiſts</hi> derive <hi>Laetitia</hi> joy,<note place="margin">Pſal 4.2.119.31. Iſa. 60.5. 2 Chro. 6.11.</note> 
+               <hi>à mentis lati<g ref="char:EOLhyphen"/>tudine,</hi> and ſo tis ſtiled the hearts enlargment, whereby it makes more way for the object delight<g ref="char:EOLhyphen"/>ed in, to enter into it: As the Sun-flower opens and dilates it ſelf towards the ſun, to receive his beams and influence more abun<g ref="char:EOLhyphen"/>dantly.</p>
+            <p>Tis rightly placed in the Concupiſcible faculty, and is wrought by preſence of, and Union with the object deſired. Now there is no doubt, but as this Nation above all others was <hi>Impatient of bondage;</hi> ſo, nothing could be alike pleaſing to them, as <hi>freedome</hi> and <hi>liberty</hi> from their <hi>thraldome.</hi> And as of old, when God brought <hi>Iſrael</hi> out of <hi>Egypt,</hi> and preſerved them from their Enemies at the red Sea, <hi>There,</hi> ſay they, <hi>did we rejoyce in him;</hi>
+               <note place="margin">Pſal, 66.6.</note> So was it here upon this deliverance from their <hi>Caldean ſervitude, whereof we rejoyce.</hi>
+            </p>
+            <pb n="12" facs="tcp:168922:9"/>
+            <p>
+               <note place="margin">Gaudio cogendi vis ineſt. <hi>Plin. 2 Sam. 6.14.</hi> Laetu<g ref="char:cmbAbbrStroke">̄</g> illum vo<g ref="char:EOLhyphen"/>cabant qui cum corona publice vitulabat. <hi>Seal. ad Va<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </note>Joy of all paſſions can leaſt be diſſembled. <hi>David</hi> dances; And indeed of old they uſed to ſtile him <hi>Laetus, joyful,</hi> that skipt and leapt amongſt the people with a garland on his head: In a word, the heart conceives it, and then quickly ſends it forth throughout all the province of nature, that every part may have a ſhare in the <hi>common comfort.</hi>
+            </p>
+            <p>
+               <hi>And he is truely joyful,</hi> ſayes <hi>Perottus, who mani<g ref="char:EOLhyphen"/>feſts in his countenance the mirth he hath within;</hi>
+               <note place="margin">Eſt proprie lae<g ref="char:EOLhyphen"/>tus qui hilari<g ref="char:EOLhyphen"/>tatem quam in<g ref="char:EOLhyphen"/>tus habet etiam vultu ostenditu <hi>Perot. Pſal. 16.9.</hi>
+               </note> And very frequently in the tongue, where it turnes to a <hi>Laudabo, praiſe,</hi> and thankful acknowledg<g ref="char:EOLhyphen"/>ment thereof; witneſs the Pſalmiſt; <hi>my heart,</hi> ſaith he, <hi>is glad, and my glory,</hi> that is, my tongue <hi>rejoyceth;</hi> ſo fares it with theſe Captives, verſ. 2. <hi>Then were our mouths fild with laughter, and our tongues with ſinging.</hi>
+            </p>
+            <p>
+               <note place="margin">Cant. 8.7. Iſa. 24.5.</note>The people of God, like the Star-fiſh will burn and ſhine in the water of diſtreſs, prayſe God in the very fire of afflictions: But when his dealing with his people is as it was here, the turning their capti<g ref="char:EOLhyphen"/>vity, thereby he takes from them their mourning weed, and makes them full of joy by his work of goodneſs, as the Jews in this Text. I, and ob<g ref="char:EOLhyphen"/>ſerve.</p>
+            <p n="2">2. The rejoycing is as <hi>extenſive</hi> as the delive<g ref="char:EOLhyphen"/>rance. The one was National, ſo alſo was the other; thus was it with their fathers when God brought them with an outſtretched arme out of <hi>Egypt,</hi>
+               <note place="margin">Exod. 15.1, 2.</note> all <hi>Iſrael</hi> rejoyced and ſang that ſong of Tri<g ref="char:EOLhyphen"/>umph.<note place="margin">2 Chron. 20.26.27,</note> So did <hi>Iehoſhaphat</hi> and all the men of <hi>Judah</hi> upon that great victory and deliverance, <hi>They re<g ref="char:EOLhyphen"/>turned to Jeruſalem with joy, and verſ.</hi> 28. <hi>They went
+<pb n="13" facs="tcp:168922:9"/> to the houſe of God with Pſalteries, harps, and Trum<g ref="char:EOLhyphen"/>pets.</hi> Such is the Thundering <hi>Haleluiah</hi> of Gods Redeemed, <hi>Rev.</hi> 19. And ſuch in point of unami<g ref="char:EOLhyphen"/>mity and concurrence was theirs here in this Text.</p>
+            <p n="3">3. Well but when were they thus joyful? <hi>fuimus</hi> ſay they; theres no doubt but this joy was at the highth when the mercy was freſh; then <hi>ſang they his praiſe,</hi>
+               <note place="margin">Pſal. 106.12, 13</note> they deferd not their ſacrifice of praiſe to their deliverer. Truly, accommodation to their advantage, propriety in, and poſſeſſion of this deliverance, muſt needs make them happy, and its apprehenſion joyful. The more they deſired it before it came, the greater reliſh found they in it being now obtaind. <hi>Darius</hi> his muddy water was pretious when his drought was ſo exceſſive, that it threatned ruine; the Heathens admiration, and extorted confeſſion by clear conviction, do not a little heighthen it; indeed it was to them a bleſſed change, an unexpected mercy, of great con<g ref="char:EOLhyphen"/>cernment.</p>
+            <p>But doth not <hi>Fuimus</hi> ſpeak of this rejoycing as of a thing paſt and gone, as the deliverance was? no, by no meanes;<note place="margin">Ibidem.</note> It was indeed too ordinary with this people, One day to ſing his praiſe, the next to forget his goodneſs, and rebell againſt him: But here the <hi>Pſalmiſt</hi> hath no deſigne to put in an in<g ref="char:EOLhyphen"/>ditement againſt them, as if they were faulty in this reſpect, but rather he ſets before them an ex<g ref="char:EOLhyphen"/>emplar,
+<pb n="14" facs="tcp:168922:10"/> that whenſoever forgetfulneſs or dulneſs doth ſurpriſe their minds, by this they may be ex<g ref="char:EOLhyphen"/>cited to <hi>remember whence they are fallen, and do their firſt work:</hi> but let this ſuffice concerning the Jews.</p>
+            <p>Q. <hi>Whats all this to us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Exceeding much; for if we conſider the mer<g ref="char:EOLhyphen"/>cy we commemorate this day, at leaſt it parallels theirs, if not outſtrips it; what tongue can expreſs the miſery we were reduced to by the late inteſtine War? How was peace deſtroyed, plenty vaniſht, trading decayed, order confounded, laws ſub<g ref="char:EOLhyphen"/>verted, truth vaniſht, Orthodox Miniſtry contem<g ref="char:EOLhyphen"/>ned,<note place="margin">Iocus eſt in mi<g ref="char:EOLhyphen"/>litia et ludus do<g ref="char:EOLhyphen"/>mos deripere, fa<g ref="char:EOLhyphen"/>na spoliare.</note> lawful Magiſtracy extirpated! Servants rid on horſeback, and Princes went on foot. What rapines and plunderings were in every corner of the Land! what traps and ſnares were layd for the Li<g ref="char:EOLhyphen"/>berty, Eſtates, yea lives of thoſe who refuſed to Sacrifice conſcience and loyalty to the luſts and in<g ref="char:EOLhyphen"/>tereſts of Uſurping perſons! The Land was become an <hi>Aceldama.</hi>
+               <note place="margin">Caldean like, they neither ſpare Princes nor Prieſts. Lam. 5.</note> In the War they ſlay in battel thoſe whom they find in arms, and many unarmed in cold blood. Not the lives of the living, nor the bones of the dead (if contrary to their corrupt intereſt) were ſecure; thouſands of our ſtrong men fell by the ſword;<note place="margin">2 Chron. 36.17</note> our King was horridly murdered at his own door,<note place="margin">Lam. 5.16.</note> and ſo fell the Crown from our head; our real friends were few; many treacherous; de<g ref="char:EOLhyphen"/>ſigns failed, our hearts fainted, our miſeries were of twenty years continuance; we had no Pro<g ref="char:EOLhyphen"/>phets to predict,<note place="margin">Pſal 74 9.</note> we wanted our ſigns, nor knew any man <hi>Quamdiu,</hi> how long our diſmal night of
+<pb n="15" facs="tcp:168922:10"/> miſery would continue on us; And our eyes even failed with looking for the ſalvation of our God. Thus, when we were moſt hopeleſs,<note place="margin">Pſal. 69.3.</note> help<g ref="char:EOLhyphen"/>leſs, our enemies higheſt, and we loweſt;<note place="margin">Cedren. ad anim. <hi>13.</hi> Heracl.</note> they armd with power, treaſure, like the picture of <hi>Choſroes</hi> in the midſt of his heaven, full of might and dignity, warring and prevailing by their ſilver ſpeares, when they ſeemed fixed like eternal Mountains, and everlaſting hills; yet then,<note place="margin">H<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. 3.9.</note> even then was the Lord ſeen in the Mount, and our ne<g ref="char:EOLhyphen"/>ceſſity was his opportunity; the <hi>wicked were ſnared in the works of their own hands.</hi>
+               <note place="margin">Pſal. 9.16.</note> 
+               <hi>Higgaion Se<g ref="char:EOLhyphen"/>lath.</hi>
+            </p>
+            <p>The people grevv impatient of their preſ<g ref="char:EOLhyphen"/>ſures: God put it into their hearts to affect, ſtrongly to deſire, and petition for the reſtoration of their antient government, and fundamental conſtituti<g ref="char:EOLhyphen"/>ons, ſtird up the vvorthy General to be his inſtru<g ref="char:EOLhyphen"/>ment in a happy chang, united the generality of the people, (though of ſeveral opinions about Eccleſiaſticall things) in a bleſſed concurrence, vvhence came the loud ſhout of the Nation, like that in the Revelation, ſaying to their exiled King, Aſcend. And that to, after ſuch high indignityes, and affronts, horrid ſlanders,<note place="margin">Rev. 11.1<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Pamphleters and railing Rabſhakies, like <hi>Smirnaes</hi> glaſs preſenting vvhat vvas moſt amiable in his ſacred Majeſty, moſt ugly and deformed to the Nation; yea, after ſuch ſad oppreſſions, great temptations, deſperate rejections and aſſaults; That God ſhould turn our captivity ſo ſuddenly, ſo ſvveetly, vvithout effuſion of blood: And ſhould ſet our King upon
+<pb n="16" facs="tcp:168922:11"/> his Throne with ſuch high teſtimonies of National affection and ſubjection to him; are not theſe <hi>Mag<g ref="char:EOLhyphen"/>na, great things!</hi> yes certainly, <hi>Mirabilia, they are wonderful in our eyes.</hi>
+            </p>
+            <p>Eſpecially that theſe great mercies ſhould be for us; A people loaden with prophaneſs, and Hypocriſie, who rather might expect extirpation then Salvation; yet wrought he all this for us, miſerable creatures, when we were in the deeps;<note place="margin">Pſal, 136.23.</note> He remembered us in our low eſtate; for us, weak Wights, when our ſtrength was gone; for us, unworthy wretches, when we were ripe for ruine; therefore we ſhould not content our ſelves to contemplate this, and rejoyce alone,<note place="margin">and 66.5, 6,</note> but invite others, as the Pſalmiſt doth, Come and behold the doings of the Lord, what Salva<g ref="char:EOLhyphen"/>tion he hath wrought for the children of men! And therefore come let us exalt and praiſe his name toge<g ref="char:EOLhyphen"/>ther.<note place="margin">Pſal. 34.3.</note>
+            </p>
+            <p>Thus <hi>Laetantes,</hi> this rejoycing in the Text is a ne<g ref="char:EOLhyphen"/>ceſſary duty, requiſite to our feſtivity, as it was to <hi>Iſraels.</hi>
+               <note place="margin">Deut: 16.14, 15.</note>
+            </p>
+            <p>But rightly to determine it in reſpect of the ob<g ref="char:EOLhyphen"/>ject,<note place="margin">Herodot. lib. <hi>1.</hi>
+               </note> muſt be our care. <hi>Agaſicles</hi> was baniſht by the <hi>Halicarnaſſeans,</hi> becauſe he conſecrated not to the Gods the prize he gained at the <hi>Olympick</hi> games, but carryed it to his own houſe: let us rather con<g ref="char:EOLhyphen"/>forme to the Pſalmiſts invitation and advice,<note place="margin">Pſal. 35.1, 2.</note> 
+               <hi>Come let us ſing unto the Lord, let us heartily rejoyce in the rock of our ſalvation; let us come into his preſence with thanksgiving, and ſhew our ſelves glad in him with Pſalms.</hi> What could this holy Prophet have taken care for more then here he doth! Firſt, that
+<pb n="17" facs="tcp:168922:11"/> there be a right fountain; the heart muſt not be abſent: it muſt be heartily. Secondly, that the ſtreames be pleaſant and ſutable to the preſent diſ<g ref="char:EOLhyphen"/>penſation, ſongs of gratitude, Pſalms of acknow<g ref="char:EOLhyphen"/>ledgement: But thirdly, he contents not himſelf with this, but deſignes a place; and where ſhould that be, but the place or his preſent Hiſſan? and the place of publick worſhip is fitteſt for the expreſ<g ref="char:EOLhyphen"/>ſion of publick joy: <hi>A perite portas juſticiae,</hi>
+               <note place="margin">Pſal. 118.19.</note> the Temples <hi>Halelujahs</hi> beſt ſuit with publick deliveran<g ref="char:EOLhyphen"/>ces: and what is more noble,<note place="margin">
+                  <hi>No<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> eſſe candi<g ref="char:EOLhyphen"/>datos Angelo<g ref="char:EOLhyphen"/>rum dicit.</hi> Te<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. de orat. cap. 3.</note> then there to joyn in the employment of Angels, whoſe age is not mea<g ref="char:EOLhyphen"/>ſured by time, but praiſe? What more honorable then there not onely to pay our tribute, by giving to him the honor due to his Name; but alſo to put the Crown of praiſe on his head, <hi>who with mercy and loving kindneſs crowns us!</hi>
+               <note place="margin">Pſalm 103.</note> I am ſure the advan<g ref="char:EOLhyphen"/>tage is our own, Gods gracious emanations being like <hi>Solinus</hi> his Well, which if ſung to, riſes, elſe ebbs. <hi>When I ſing praiſes unto God,</hi>
+               <note place="margin">Pſalm 56.9.</note> 
+               <hi>then ſhall mine Enemies be driven back,</hi> ſaith <hi>David;</hi> ſo was it with <hi>Jehoſhaphat,</hi>
+               <note place="margin">
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chron. 20, 2<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> when they began to ſing and praiſe the Lord, their Enemies were ſmiten; and ſo will it be with us, our great things will be teeming mercies, and bring forth more; they'l be but pawns,<note place="margin">
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontinalia fe<g ref="char:EOLhyphen"/>st<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s erat dies Romae, quo in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ntes coronas pro<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icebanit, ut à quibus aqua<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> acciper<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t, iiſ<g ref="char:EOLhyphen"/>dem gratiam re<g ref="char:EOLhyphen"/>ferre hocritu viderentur. <hi>Vide Var. l. 5. de ling. lat.</hi>
+               </note> and firſt fruits of future good; only we muſt take heed, that we put not a bar in the way thereof, by our ingra<g ref="char:EOLhyphen"/>titude. What can be more equal then if we draw good out of this Ocean of goodneſs! <hi>Roman</hi> like we ſhould crown the Fountain that imparts it.</p>
+            <p>The danger of mutability is a great allay in all ſublunary good, the ſtability whereof depends on
+<pb n="18" facs="tcp:168922:12"/> Gods will and actual emanation, as beams on the Sun. Therefore the Pſalmiſt prays,<note place="margin">Pſal. 90, 17.</note> 
+               <hi>Eſtahliſh that which thou haſt wrought for us, or elſe it will quickly vaniſh and come to nothing:</hi> And our beſt way to make it durable,<note place="margin">Luke <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> is, to anſwer Gods deſign, in conferring it upon us; whats that? but <hi>ut ſerviamus,</hi> ſays holy <hi>Zacharias, That we being delivered from the fear of our Enemies, and out of the hands of thoſe that hate us, ſhould ſerve him without fear, in holineſs and righte<g ref="char:EOLhyphen"/>ouſneſs hefore him all the dayes of our lives:</hi> That is in<g ref="char:EOLhyphen"/>deed the real gratitude,<note place="margin">Pſal. 56.13.</note> when not only <hi>verbally</hi> but <hi>vitally</hi> we endeavour to expreſs it, as holy <hi>David,</hi> in our converſation, <hi>I will walk before God in the Land of the living.</hi>
+            </p>
+            <p>But thats not all, we muſt take care that both our internal, external, Joy and gratitude, bear ſome proportion to our mercyes.<note place="margin">2 Chro. 32.25.</note> This was <hi>Hezekiahs</hi> fault; he was not thankful according to the mercyes recei<g ref="char:EOLhyphen"/>ved;<note place="margin">Diis &amp; paren tibus non poſſu<g ref="char:EOLhyphen"/>mus retribuere aequalia. <hi>Ariſt.</hi>
+               </note> let it be our warning. To God, and our Pa<g ref="char:EOLhyphen"/>rents, we can never ſufficiently retribute for the benefits we receive from them; ſayes the Philoſo<g ref="char:EOLhyphen"/>pher; the example of his diſciple <hi>Alexander</hi> the great is worthy our imitation,<note place="margin">Plin. l. <hi>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi> c. <hi>14.</hi>
+               </note> who when he had conque<g ref="char:EOLhyphen"/>red <hi>Arabia,</hi> ſent home a ſhip loaden with franckin<g ref="char:EOLhyphen"/>ſence, intreating <hi>Leonides</hi> to offer it liberally unto the Gods.</p>
+            <p>
+               <hi>My Lords,</hi> God in this happy change greatned himſelf, that he might greaten you; What now is your task, but to make your buſineſs to greaten him in the ſight of the people; as to his eſſenti<g ref="char:EOLhyphen"/>al glory you cannot. But in point of manifeſtation to the world, by your words and Actions, you may, and ought. I will deliver ſayes God; theres his
+<pb n="19" facs="tcp:168922:12"/> benificene, <hi>and thou ſhalt glorifie me,</hi> there's our duty. He hath done the one for your Lordſhips,<note place="margin">Pſal. 50.</note> and now expects the other from you. And I make no doubt but the Pſalmiſts <hi>Quid retribuam</hi> is in your hearts, reſolving to performe it; And your inquiry where<g ref="char:EOLhyphen"/>by you may give Teſtimony to the world, of the deep ſence you have of Gods deliverance. Where<g ref="char:EOLhyphen"/>fore in all humility give me leave to preſent to you certain great things God reſpects by way of grati<g ref="char:EOLhyphen"/>tude for thoſe great things of his beſtowed on you. As 1. <hi>Magna pietatis,</hi> that you take care for the great things of Religion. Who ever denies to the Civil Authority that power, hath not conſidertd as he ought; the commands given them by God, and ſo their obligement, the commendations he gives to ſuch, and therein their encouragement, the bleſſing conferred on them that faithfully did it, nor the puniſhments inflicted upon neglecters of this duty; neither their titles, office, or ac<g ref="char:EOLhyphen"/>count they muſt give to the King of Kings, are under<g ref="char:EOLhyphen"/>ſtood by ſuch; and indeed they rob the Magiſtrate who aſſert it, of their greateſt dignity.</p>
+            <p>Therefore I beſeech you let it be your care to build God an houſe, and you may be confident he will do the like for you, let <hi>Iſraels</hi> reſolution in the ſence of their deliverance be yours, <hi>He is my God,</hi>
+               <note place="margin">Exod. 15.2.</note> 
+               <hi>and I will prepare him a habitation; my Fathers God, and I will exalt him.</hi> This will be the Nations honour, when as the new <hi>Jeruſalem, England</hi> may be ſtiled <hi>Jehovah Shammah,</hi> The Lord is there; I and the Nations ſafety, <hi>The Lord is in the midſt of her,</hi>
+               <note place="margin">Ezek. 48.35.</note> 
+               <hi>ſhe ſhall not be moved; he will help her and that right ſoon.</hi>
+               <note place="margin">Pſal. 46.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Tis fit thoſe places that are conſecrated to the publick
+<pb n="20" facs="tcp:168922:13"/> worſhip of God, which by the iniquity of the late ſad times have been either neglected or defaced, ſhould be taken care off; but eſpecially I beſeech you beſtow your beſt endeavours upon the advance<g ref="char:EOLhyphen"/>ment of Knowledge and piety, whereby God may have a houſe of living ſtones;<note place="margin">1 Pet: 2.5.</note> and the Nation may grow up more and more, to be a habitation and Temple for the Lord to dwell in;<note place="margin">Epheſ. 2.21, 22</note> To this end, pro<g ref="char:EOLhyphen"/>mote not loyterers, but labourers to this work, that have both skill and will to promote it: That bear both Urim and Thummim in their hearts and lives,<note place="margin">Ioh. 5.33.</note> and are like <hi>John Baptiſt</hi> ſhining in ability, burning in zeal, and ſanctity. To be ſalt not ha<g ref="char:EOLhyphen"/>ving loſt it ſavour,<note place="margin">1 Pet. 4: 11. Iohn. 13.15.</note> but fit to ſeaſon the ſacrifice, and make the people a ſavory offering to the Lord,<note place="margin">
+                  <hi>Loqui debent ut oracula, vivere ut numina. Cauſia. l.</hi> 4. <hi>c.</hi> 25 Exod: 21.17. Iſa. 52.11. Lev: 10.1, <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tis the Iews opinion that they were then drunk, whereby they occaſioned that law, v. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Paal halturim. cum aliis.</hi> 1 Tim: 3.2, 3 Exod: 37.23 1 Tim: 4.12 The holy ſhekle weighed 320 barly corns, the common but 16<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3. <hi>Maym.</hi> Pſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 132.9.</note> is their duty. They muſt ſpeak as the Oracles of God, and live after their Lords example. The <hi>A<g ref="char:EOLhyphen"/>thenians</hi> would not permit foul-mouthed <hi>Democha<g ref="char:EOLhyphen"/>ris</hi> to blow <hi>Veſtaes</hi> fire. And a blemiſhed Prieſt was not amongſt the Jews permited to ſerve at Gods Altar. Thoſe that bear the Veſſels of the Lord muſt be holy. The two ſons of <hi>Aaron</hi> ſmart for their drunken miſtake, and from their error God takes occaſion to forbid ſtrong drink to their fellowes, when they are imployed in his publique ſervice. St. <hi>Pauls</hi> winebibber is unfit for this ſacred imployment. Gold is fitteſt for Lamps and Snuffers in Gods Sanctu<g ref="char:EOLhyphen"/>ary and exemplary <hi>Holines</hi> for his Prieſts. The Shekle of the Temple is twice, the weight of the Commonwealth; tis no ordinary meaſure of ſanctity is enough in Church-men. Thus let it be your endea<g ref="char:EOLhyphen"/>vour, <hi>That Gods Prieſts may be cloathed with righte<g ref="char:EOLhyphen"/>ouſneſs, and the people will ſhout for joy.</hi>
+            </p>
+            <p n="2">
+               <pb n="21" facs="tcp:168922:13"/>2. <hi>Mag na Juſtitiae,</hi> the great things of <hi>diſtributive Juſtice;</hi> Let your Tribunal be like that noble <hi>Romans,</hi>
+               <note place="margin">
+                  <hi>Reorum Scopu<g ref="char:EOLhyphen"/>lus, juſtorum re<g ref="char:EOLhyphen"/>fugium.</hi> Tacit. 2 Chron. 1<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.8, 9.</note> 
+               <hi>Lucus Caſſi<g ref="char:EOLhyphen"/>u<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, A rock to ſplit in pieces the guilty,</hi> but <hi>a refuge to the innocent.</hi> I hope you remember God truſts you with his power, for which you are accountable, and your judge<g ref="char:EOLhyphen"/>ment is the Lords, who is no reſpecter of perſons, nor takes rewards; therefore <hi>let judgement run down as water, and righteouſneſs</hi> like <hi>a mighty ſtream.</hi>
+               <note place="margin">Amos 5.24. <hi>Plin. l.</hi> 2. <hi>c.</hi> 17.</note> 
+               <hi>Democritus</hi> allowed only two gods, Puniſhment and Reward. There is nothing ſo forcible to preſerve humane ſociety, as the due diſtribution of them.</p>
+            <p n="3">3. Laſtly, Give me leave to commend to you <hi>Magna Miſericordiae, The bowels of compaſſion,</hi> My Lords; We find ſome coin of <hi>Antoninus Pius,</hi> and <hi>Nerva</hi>'s alſo,<note place="margin">Cauſin. l. <hi>1.</hi> c. <hi>18.</hi>
+               </note> in which an Eagle ſits on a Thunderbolt, to which is added an O<g ref="char:EOLhyphen"/>live-branch; which took ſo much with <hi>Charles</hi> the fifth, and <hi>Max.</hi> the 2<hi rend="sup">d.</hi> that they took this in amongſt the reſt of their Symbols and devices; which intimates, that though the Emperors power to avenge and puniſh be very great, yet is it moderated and reſtrained by clemency; And <hi>Caeſar</hi> got not leſs glory by mercy, then by victories.<note place="margin">Caeſar dando, ſublevando, ig<g ref="char:EOLhyphen"/>noſcendo, glori<g ref="char:EOLhyphen"/>am adeptus eſt. <hi>Sal<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt. Iſ<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 8.6, 7, 8.</hi>
+               </note> Therefore give me leave to cloſe this in the words of the Prophet <hi>Iſaiah: If you break the bands of wickedneſs, and undo the heavy burthens, and let the oppreſſed go free, and break every yoke; If you feed the hungry, and cloathe the na<g ref="char:EOLhyphen"/>ked, and hide not your eyes from your own fleſh: Then ſhall your light break forth as the morning, and your health ſhall ſpring forth ſpeedily, and your righteouſneſs ſhall go before you, and the glory of the Lord ſhall be your reward.</hi> Then ſhall you keep a feaſt of rejoycing indeed to the Lord, when not only you take care for your ſelves,<note place="margin">Deut. 16.1<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>t abſit mae<g ref="char:EOLhyphen"/>ſtitia, &amp; adſit laetitia,</hi> which was commanded as a neceſ<g ref="char:EOLhyphen"/>ſary adjunct in all feſtivities: but alſo in reſpect of others who are relieved through your goodneſs, ſo that they
+<pb n="22" facs="tcp:168922:14"/> alſo will be chearfully ready with your ſelves to joyn in the <hi>Halelujah</hi> of this Text, and to acknowledge heartily, thankfully, <hi>The Lord hath done great things for us, whereof we rejoyce.</hi>
+            </p>
+            <p>
+               <note place="margin">Oſor. lib. <hi>4.</hi>
+               </note>Amongſt the <hi>Ethiopians</hi> they had a cuſtom, that once a year the fires in all habitations were extinguiſhed, and then by the King reſtored to the Nobles, and by them to the common people. I am ſure the King hath not been wanting to make the Nation to feel the warmth of royal clemency; and I am confident through your management they ſhall be put into the full poſſeſſion thereof in due ſeaſon.</p>
+            <p>My <hi>Lords,</hi> I ſhall only add a few Arguments to remain with you as incitements to real gratitude. Firſt, Conſi<g ref="char:EOLhyphen"/>der our mercies are not <hi>meritoria,</hi> deſerved by us; No, <hi>'Tis his mercy we are not confounded;</hi> but they are <hi>explo<g ref="char:EOLhyphen"/>ratoria,</hi> God proves us whether we will improve them for his glory and the publick good. Secondly, He that hath done for us great good things in mercy, can do to us terrible things in juſtice:<note place="margin">Rev. 12.1. Pſal. 30. <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> The world is fitly emblemati<g ref="char:EOLhyphen"/>zed by the moon, 'tis full of changes. Nones mount ſtands ſo ſtrong that it cannot be moved.<note place="margin">Cedren.</note> 
+               <hi>Phocas</hi> Tower though never ſo high immured, ſo ſtrongly guarded, is no Fence againſt Heavens revenge for ſins tranſgreſſion, as an un<g ref="char:EOLhyphen"/>known voice declared. If you deſire honor, the way to it is through Vertues Temple: the ſhadow is not more inſeparable from the body, then honor and praiſe from excellent actions of piety, juſtice, mercy: <hi>The righteous ſhall be had in everlaſting remembrance.</hi>
+               <note place="margin">Pſal. 112.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</note> This is the way to erect monuments more honorable to your ſelves, and poſterities then of brick or ſtone. Thus God ſhall have the glory of his mercy; Your Country the benefit; and your ſelves the honor here, Comfort when you leave this World, and everlaſting happineſs in a better.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
